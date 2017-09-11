@@ -7,6 +7,6 @@ Pod::Spec.new do |s|
     s.authors      = {'ArrQ' => 'wyytai@qq.com'}
     s.platform     = :ios, '8.0'
     s.source       = {:git => 'https://github.com/ArrQ/RequestDemo.git', :tag => s.version}
-    s.source_files = 'RequestDemo/RequestTool/*.{h,m}'
+    s.source_files = 'RequestDemo/RequestDemo/RequestTool/*.{h,m}'
     s.requires_arc = true
 end
