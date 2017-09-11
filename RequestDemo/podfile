@@ -1,0 +1,13 @@
+platform :ios,'8.0'
+target 'RequestDemo' do
+pod 'AFNetworking'
+pod 'MJRefresh'
+pod 'SDWebImage'
+pod 'MBProgressHUD'
+pod 'BlocksKit'
+pod 'MJExtension'
+pod 'Masonry'
+pod 'IQKeyboardManager'
+pod 'FMDB’
+pod 'RequestDemo'
+end
